@@ -1,2 +1,2 @@
 # ONLINE-FOOD-DELIVERY-ANALYSIS-DELAY-PREDICTION
-Online Food Delivery Analysis &amp; Delay Prediction is a data science project that analyzes delivery data and predicts delivery time and delay status using machine learning models.
+This project applies data science and machine learning techniques to analyze online food delivery data and predict delivery time delays. It includes data cleaning, feature engineering, exploratory data analysis (EDA), and model training using Linear Regression, Logistic Regression, and Artificial Neural Networks (ANN). The goal is to identify key factors affecting delays and improve delivery time prediction accuracy.
